@@ -21,11 +21,11 @@ a {
   font-size: 1.4rem;
 }
 main {
-  padding: 0em;
+  padding: 2em;
 }
 .get-started-btn {
   font-size: 1.2rem;
-  color: hsl(208, 6%, 40%);
+  color: #fff;
   background: hsl(322, 100%, 66%);
   padding: 0.7em 2em;
   border-radius: 100px;
@@ -84,9 +84,6 @@ a.try-btn {
 }
 
 #grow-together {
-  /* background-image: url(./images/bg-section-top-mobile-2.svg);
-  width: 100%;
-  background-repeat: no-repeat; */
   background: hsl(207, 100%, 98%);
   border-bottom-left-radius: 1%;
   border-bottom-right-radius: 10%;
@@ -94,7 +91,7 @@ a.try-btn {
   border-top-left-radius: 3%;
   text-align: center;
   padding: 3em 0; 
-  border-bottom-left-radius: 70% 60%  ;
+  border-bottom-left-radius: 70% 60%;
 }
 
 #flowing-con {
@@ -119,8 +116,8 @@ a.try-btn {
   margin-bottom: 2em;
 }
 
-@media screen and (min-width: 800px){
+/* @media screen and (min-width: 800px){
   body{
     background-color: hotpink;
   }
-}
+} */
