@@ -70,7 +70,7 @@ a.try-btn:hover {
 /* hero section */
 #hero-section {
   text-align: center;
-  margin-top: 10em;
+  margin-top: 6em;
   padding: 0 2em;
 }
 
@@ -204,7 +204,7 @@ a.footer-logo {
   text-align: center;
   background: rgb(0, 37, 46);
   padding: 2em;
-  font-size: 0.9rem;
+  font-size: 0.7rem;
   font-family: "Open Sans", sans-serif;
 }
 .attribution a {
